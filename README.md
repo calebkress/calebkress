@@ -1,8 +1,6 @@
-# Portfolio Redux App
+# calebkress.com
 
-A Portfolio example of an isomorphic rendering application in React and Redux. [Live Example Here](http://www.callumrimmer.co.uk)
-
-<img src="http://g.recordit.co/cO0pqgO8Fo.gif" width="728" />
+An isomorphic rendering portfolio site in React and Redux.
 
 ## Development Installation
 
@@ -21,7 +19,7 @@ http://localhost:3002
 
 ## Releasing to Production
 
-Production has Devtools, logging and hot reloading middleware removed and the scripts/css compressed. 
+Production has Devtools, logging and hot reloading middleware removed and the scripts/css compressed.
 
 In the project's directory, run the following commands:
 
@@ -35,11 +33,3 @@ Then Visit
 ```
 http://localhost:3002
 ```
-
-## Other Boilerplate code
-
-[General Redux App (with Undo)](https://github.com/caljrimmer/isomorphic-redux-app)
-
-## Credit
-
-App template was based on [Lanyon Theme](https://github.com/poole/lanyon) by [mdo](https://github.com/mdo)

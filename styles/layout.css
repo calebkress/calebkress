@@ -279,7 +279,7 @@ a.sidebar-nav-item:focus {
   visibility: visible;
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
-          transform: translateX(14rem);  
+          transform: translateX(14rem);
 }
 
 .sidebar-footer a{
@@ -335,10 +335,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post-title em {
-  background:#d9ead3;
   color:#1db7a9;
-  padding:0em 0.3em 0em;
-  margin:0.1em;
   font-style:normal;
 }
 
