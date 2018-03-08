@@ -30,7 +30,7 @@ class About extends Component {
 
       	  	<h3>About Site</h3>
 
-      	  	<p>This site is a single page web app built with React and Redux. It is Isomorphic (all the code renders on the server and well as the browser) which has the advantage of initially rendering quicker and being indexed by search engines.</p>
+      	  	<p>This site is a single page web app built with React and Redux. It is Isomorphic (all the code renders on the server as well as the browser) which has the advantage of initially rendering quicker and being indexed by search engines.</p>
 
 	      </div>
 
